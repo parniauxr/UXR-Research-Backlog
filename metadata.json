@@ -1,0 +1,6 @@
+{
+  "name": "PinDis UX Research Backlog",
+  "description": "Minimal, focused UX research backlog and initiative management workspace for PinDis B2B ordering platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
